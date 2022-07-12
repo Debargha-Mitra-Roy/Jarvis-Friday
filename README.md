@@ -6,7 +6,6 @@ This is a mordern day AI base Desktop Assistant.
 
    <p align="center">
      <img src="./images/ironman.gif" alt="jarvis">
-     <figcaption align="center">Tony Stark command JARVIS</figcaption>
    </p>
 
 
@@ -14,7 +13,6 @@ This is a mordern day AI base Desktop Assistant.
 
     <p align="middle">
      <img src="./images/jarvis.gif" alt="jarvis">
-     <figcaption align="center">JARVIS</figcaption>
     </p>
 
 - ### What after JARVIS is being Hacked?
@@ -23,6 +21,5 @@ This is a mordern day AI base Desktop Assistant.
 
     <p align="center">
      <img src="./images/friday.jpeg" alt="friday">
-     <figcaption align="center">FRIDAY</figcaption>
     </p>
  
